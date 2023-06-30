@@ -1,0 +1,4 @@
+# Ajedrez_dos_jugadores
+Desarrollo de una aplicacion de ajedrez multijugador en tiempo real para dos jugadores en python
+
+El juego de ajedrez es conocido por su complejidad estratégica y su popularidad en todo el mundo. El enfoque principal de este proyecto es crear una interfaz de usuario intuitiva y atractiva que permita a los jugadores participar en partidas de ajedrez clásico. Se hace uso del lenguaje de programación Python para crear un tablero de ajedrez interactivo en el que los jugadores puedan mover las piezas mediante clícs. Se implementaron todas las reglas y movimientos legales del ajedrez, incluidos los enroques, los movimientos especiales de peones y la captura al paso. Este proyecto combina programación, lógica y diseño de interfaces para crear una aplicación de ajedrez interactiva y atractiva en Python
